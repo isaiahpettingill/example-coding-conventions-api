@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExampleQualtricsIntegration.Common\ExampleQualtricsIntegration.Common.csproj" />
+    <ProjectReference Include="..\ExampleQualtricsIntegration.Data\ExampleQualtricsIntegration.Data.csproj" />
+    <ProjectReference Include="..\ExampleQualtricsIntegration.Services\ExampleQualtricsIntegration.Services.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleQualtricsIntegration.WebApi", "ExampleQualtricsIntegration.WebApi\ExampleQualtricsIntegration.WebApi.csproj", "{EB0C3DC5-5FAE-4FAA-BA18-A4139015BD28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleQualtricsIntegration.Services", "ExampleQualtricsIntegration.Services\ExampleQualtricsIntegration.Services.csproj", "{4AAF7F15-3766-43DB-A1C1-5D3A7A89F3BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleQualtricsIntegration.Data", "ExampleQualtricsIntegration.Data\ExampleQualtricsIntegration.Data.csproj", "{755DD757-AC74-4E87-B4EC-488A7B604FDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleQualtricsIntegration.Common", "ExampleQualtricsIntegration.Common\ExampleQualtricsIntegration.Common.csproj", "{D4C326FF-D6EA-4B57-9CD0-640DC419A918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleQualtricsIntegration.Functions", "ExampleQualtricsIntegration.Functions\ExampleQualtricsIntegration.Functions.csproj", "{E4D57389-66AB-4635-91B3-0C23B86C9104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0C3DC5-5FAE-4FAA-BA18-A4139015BD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0C3DC5-5FAE-4FAA-BA18-A4139015BD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0C3DC5-5FAE-4FAA-BA18-A4139015BD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0C3DC5-5FAE-4FAA-BA18-A4139015BD28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AAF7F15-3766-43DB-A1C1-5D3A7A89F3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAF7F15-3766-43DB-A1C1-5D3A7A89F3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAF7F15-3766-43DB-A1C1-5D3A7A89F3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAF7F15-3766-43DB-A1C1-5D3A7A89F3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{755DD757-AC74-4E87-B4EC-488A7B604FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755DD757-AC74-4E87-B4EC-488A7B604FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755DD757-AC74-4E87-B4EC-488A7B604FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755DD757-AC74-4E87-B4EC-488A7B604FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4C326FF-D6EA-4B57-9CD0-640DC419A918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C326FF-D6EA-4B57-9CD0-640DC419A918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C326FF-D6EA-4B57-9CD0-640DC419A918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C326FF-D6EA-4B57-9CD0-640DC419A918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D57389-66AB-4635-91B3-0C23B86C9104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D57389-66AB-4635-91B3-0C23B86C9104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D57389-66AB-4635-91B3-0C23B86C9104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D57389-66AB-4635-91B3-0C23B86C9104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3824500D-A720-4C05-AE59-7A992B407031}
+	EndGlobalSection
+EndGlobal
